@@ -1,0 +1,1 @@
+This folder is to test some features to develop after a 3d representation of the room with draggable and resizeable structure.
